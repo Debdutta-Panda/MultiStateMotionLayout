@@ -20,3 +20,11 @@ MultiStateMotionLayout(
     crossinline content: @Composable MotionLayoutScope.() -> Unit
 )
 ```
+
+```kotlin
+data class StateSet(
+    val startState: Any,
+    val endState: Any,
+    val progress: Progress
+)
+```
