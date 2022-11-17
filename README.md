@@ -40,3 +40,16 @@ There can be various way to mention progress
     e.g. `StateSet.State(your_state_of_float)`
 - Animation
     e.g. `StateSet.Animation`
+
+### Animation
+
+```kotlin
+Animation(
+    val from: Float = 0f,
+    val to: Float = 1f,
+    val duration: Int = 500,
+    val animationSpec: AnimationSpec<Float> = tween(duration),
+    val key: Any,
+    val onFinishedListener: (()->Unit)? = null
+)
+```
