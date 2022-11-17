@@ -28,3 +28,12 @@ data class StateSet(
     val progress: Progress
 )
 ```
+Use anything as state identifier, integer, enum, string whatever you want.
+
+### Progress
+
+There can be various way to mention progress
+
+- Hard coded value
+- State
+- Animation
