@@ -6,7 +6,8 @@ We all know about motion layout in jetpack compose with only two state. I made a
 
 # Demo
 
-![image](https://user-images.githubusercontent.com/92369023/202374231-9f02282e-81b3-47c0-8634-f7d866ff6fe3.png)
+![0_Ah6VEcfnbPN3c7bI](https://user-images.githubusercontent.com/92369023/202374587-02ed8360-baa6-4074-bad9-41347fe458ea.gif)
+
 
 
 ## YouTube
