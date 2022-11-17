@@ -53,3 +53,7 @@ Animation(
     val onFinishedListener: (()->Unit)? = null
 )
 ```
+
+# Sample
+
+https://github.com/Debdutta-Panda/MultiStateMotionLayout/blob/main/app/src/main/java/com/debduttapanda/multistatemotionlayout/MainActivity.kt
