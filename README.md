@@ -35,5 +35,8 @@ Use anything as state identifier, integer, enum, string whatever you want.
 There can be various way to mention progress
 
 - Hard coded value
+    e.g. `StateSet.Value(0.3f)`
 - State
+    e.g. `StateSet.State(your_state_of_float)`
 - Animation
+    e.g. `StateSet.Animation`
