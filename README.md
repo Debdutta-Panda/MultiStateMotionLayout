@@ -2,6 +2,13 @@
 
 We all know about motion layout in jetpack compose with only two state. I made a multi state motion layout. Enjoy it.
 
+![image](https://user-images.githubusercontent.com/92369023/202374192-e421c32b-32f1-4787-96be-d1c614b99570.png)
+
+# Demo
+
+![image](https://user-images.githubusercontent.com/92369023/202374231-9f02282e-81b3-47c0-8634-f7d866ff6fe3.png)
+
+
 ## YouTube
 https://youtu.be/r6kgFRfTrjA
 
